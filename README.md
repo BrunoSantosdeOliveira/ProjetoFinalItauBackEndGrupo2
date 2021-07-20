@@ -54,10 +54,15 @@ Endpoint para consultas do detalhe da conta
 /contas/{id}
 Todos os dados devem ser retornados em formato JSON
 
-## INSTALAÇÃO DA API
+## INSTALAÇÃO DA API(PRE REQUISITOS)
 
+- A [API](https://github.com/crportes/ProjetoFinalItauBackEndGrupo2) do projeto deve estar em execução.
 
-## PRE REQUISITOS
+**Clone o projeto e acesse a pasta**
+
+```bash
+$ git clone https://github.com/BrunoSantosdeOliveira/ProjetoFinalItauBackEndGrupo2 && cd desafio-afya-front-end
+```
 </p>Executar comandos no terminal para instalação de extenções:</p>
 </p>MySql.Data.EntityFramework 8.0.25</p>
 </p>dotnet add package MySql.Data.EntityFramework --version 8.0.25</p>
