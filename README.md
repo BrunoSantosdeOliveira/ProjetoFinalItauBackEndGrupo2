@@ -1,4 +1,4 @@
-# ProjetoFinalItauBackEndGrupo2
+# Projeto Final Itau Back End Grupo2(Perserverence)
 Repositório para desenvolvimento do desafio do grupo 02 do treinamento ItauTech, edição PCD, julho de 2021.
 
 
