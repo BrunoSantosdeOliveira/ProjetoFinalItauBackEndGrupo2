@@ -1,5 +1,5 @@
 # Projeto Final Itaú Back End Grupo2(Perseverance)
-Repositório para desenvolvimento do desafio do grupo 02 do treinamento ItauTech, edição PCD, julho de 2021.
+Repositório para desenvolvimento do desafio do grupo 02 do treinamento ItauTech fornecido pela Gama Academy, edição PCD, julho de 2021.
 
 
 ### 💻 Equipe
