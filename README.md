@@ -9,11 +9,17 @@ Repositório para desenvolvimento do desafio do grupo 02 do treinamento ItauTech
 - [Daniel Damasceno]()
 - [Henrique Ferreira](https://github.com/henriqueandrade01)
 
-Ferramentas Utilizadas
-Visual Studio
-WhatsApp
-Banco de dados
-SQLServer.
+
+## 🚀 TFerramentas Utilizadas
+
+Tecnologias que utilizamos para desenvolver este web client:
+
+- [Visual Studio](https://visualstudio.microsoft.com)
+- [Newtonsoft.Json ](https://www.nuget.org/packages/Newtonsoft.Json/)
+- [MySql.Data](https://www.nuget.org/packages/MySql.Data/)
+- [SQLServer](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
+
+
 
 OBJETIVOS
 1. Construir uma API .Net  que possua 2 endpoints principais:
