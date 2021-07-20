@@ -1,15 +1,13 @@
 # ProjetoFinalItauBackEndGrupo2
 Repositório para desenvolvimento do desafio do grupo 02 do treinamento ItauTech, edição PCD, julho de 2021.
 
-EQUIPE
 
-´Preserverance, formado por Cinthia Cruz,Daniel Damasceno, Carlos Rogerio, Henrique Ferreira, Bruno Oliveira.
-https://github.com/crportes/ProjetoFinalItauBackEndGrupo2
-https://github.com/henriqueandrade01
-https://github.com/Cinthia2406
-https://github.com/BrunoSantosdeOliveira
-
-
+### 💻 Equipe
+- [Bruno Oliveira](https://github.com/BrunoSantosdeOliveira)
+- [Carlos Rogerio](https://github.com/crportes/)
+- [Cinthia Cruz](https://github.com/Cinthia2406)
+- [Daniel Damasceno]()
+- [Henrique Ferreira](https://github.com/henriqueandrade01)
 
 Ferramentas Utilizadas
 Visual Studio
