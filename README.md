@@ -4,9 +4,9 @@ Repositório para desenvolvimento do desafio do grupo 02 do treinamento ItauTech
 
 ### 💻 Equipe
 - [Bruno Oliveira](https://github.com/BrunoSantosdeOliveira)
-- [Carlos Rogerio](https://github.com/crportes/)
+- [Carlos Rogerio](https://github.com/crportes)
 - [Cinthia Cruz](https://github.com/Cinthia2406)
-- [Daniel Damasceno]()
+- [Daniel Damasceno](https://github.com/danieldamacena)
 - [Henrique Ferreira](https://github.com/henriqueandrade01)
 
 
